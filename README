@@ -1,1 +1,4 @@
-This is simply a collection of the solutions I developped to a few of the problems from projecteuler.net.
+This is simply a collection of the solutions I developped to a few of the problems from projecteuler.net. My objective is mainly to have fun and learn Common Lisp in the process so most solutions are naive.
+
+Note that not all problems what I have started have a complete solution. Some of them have a note indicating so.
+
