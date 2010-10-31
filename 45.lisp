@@ -1,3 +1,4 @@
+;; Not exactly lisp code, decided to just work the problem by hand...
 
  31   9 
    6 8 0
